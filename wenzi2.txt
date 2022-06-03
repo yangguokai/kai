@@ -59,7 +59,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yangguokai.github.io/yuan/saohuo.txt"
+      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/%E9%AA%9A%E7%81%AB.json"
     },
     {
       "key": "红牛采集",
