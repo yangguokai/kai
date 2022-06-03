@@ -47,7 +47,6 @@
     },
     {"key":"快播云","name":"快播云","type":0,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl":"","categories":["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
     {"key":"csp_biubiu_555资源","name":"🥒555资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/555资源.json"}
-    {"key":"csp_xpath_duboku","name":"独播(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/6/duboku2.json"},
     {
       "key": "csp_xpath_saohuo",
       "name": "骚火(XPath)",
